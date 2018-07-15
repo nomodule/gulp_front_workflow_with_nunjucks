@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA;EACE,qBAAc;EAAd,sBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,oBAAoB,EAAE","file":"main.css","sourcesContent":["body {\n  display: flex;\n  background: hotpink; }\n"]}
